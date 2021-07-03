@@ -1,0 +1,17 @@
+ul {
+    list-style-image: url(arrows-bullet.gif);
+    list-style-position: outside;
+}
+
+h1 {
+    font-display: Verdana;
+    font-size: 24;
+    color: saddlebrown;
+}
+
+h2 {
+    font-display: Verdana;
+    font-size: 20;
+    font-weight: 95;
+    font-stretch: semi-condensed;
+}
